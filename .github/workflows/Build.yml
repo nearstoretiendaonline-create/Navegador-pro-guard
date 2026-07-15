@@ -44,8 +44,7 @@ jobs:
             buildozer-${{ runner.os }}-
 
       - name: Compilar APK
-        run: buildozer android debug
-
+        run:  yes | buildozer android debug
       - name: Subir artefacto
         uses: actions/upload-artifact@v4
         with:
