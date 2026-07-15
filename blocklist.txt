@@ -1,0 +1,56 @@
+# Chrome-Lite Anonymous — lista de bloqueo inicial (dominios de publicidad/rastreo)
+# Formato: un dominio por línea. Se compara por sufijo de host.
+# Esta es una lista de arranque; se recomienda ampliarla con listas públicas
+# tipo StevenBlack/hosts o EasyList (ver README) para cobertura completa.
+
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+adservice.google.com
+adnxs.com
+adsrvr.org
+adroll.com
+amazon-adsystem.com
+criteo.com
+criteo.net
+scorecardresearch.com
+outbrain.com
+taboola.com
+facebook.net
+connect.facebook.net
+ads.facebook.com
+analytics.twitter.com
+ads-twitter.com
+bat.bing.com
+clarity.ms
+hotjar.com
+mixpanel.com
+segment.io
+segment.com
+branch.io
+appsflyer.com
+adjust.com
+mopub.com
+applovin.com
+unityads.unity3d.com
+vungle.com
+chartboost.com
+inmobi.com
+pubmatic.com
+rubiconproject.com
+openx.net
+smartadserver.com
+yieldmo.com
+moatads.com
+quantserve.com
+newrelic.com
+sentry.io
+crashlytics.com
+flurry.com
+mparticle.com
+demdex.net
+adobedtm.com
+omtrdc.net
